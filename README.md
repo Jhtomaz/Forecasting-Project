@@ -1,4 +1,4 @@
-# Previsão de preços de passagens aéreas
+# Previsão de preços de passagens aéreas ✈️
 
 Este projeto usa aprendizado de máquina para tentar prever o preço de uma passagem aérea.
 
